@@ -1,4 +1,3 @@
 # Snake-game
-#python
-#turtle library
-#vscode
+#python #turtle library #vscode
+#pls like
